@@ -1,17 +1,16 @@
 <h1 align="center">Oleksii Bilohryshchenko</h1>
 
-<h3 align="center">Backend engineer · Architecture-aware tooling · Deterministic systems</h3>
+<h2 align="center">Backend engineer · Architecture-aware tooling · Deterministic systems</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oleksiiboh/">LinkedIn</a> &nbsp;·&nbsp;
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-25-5A8B9E?style=for-the-badge&labelColor=0F172A" alt="Java">
-  <img src="https://img.shields.io/badge/Maven-build-A88858?style=for-the-badge&labelColor=0F172A" alt="Maven">
-  <img src="https://img.shields.io/badge/Spring-framework-5B9279?style=for-the-badge&labelColor=0F172A" alt="Spring">
-  <img src="https://img.shields.io/badge/PostgreSQL-database-5A8B9E?style=for-the-badge&labelColor=0F172A" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/static_analysis-architecture-9E6B6B?style=for-the-badge&labelColor=0F172A" alt="Static Analysis">
+  <img src="https://img.shields.io/badge/language-Java-5A8B9E?style=for-the-badge&labelColor=0F172A" alt="Java">
+  <img src="https://img.shields.io/badge/build-Maven-A88858?style=for-the-badge&labelColor=0F172A" alt="Maven">
+  <img src="https://img.shields.io/badge/framework-Spring-5B9279?style=for-the-badge&labelColor=0F172A" alt="Spring">
+  <img src="https://img.shields.io/badge/database-PostgreSQL-9E6B6B?style=for-the-badge&labelColor=0F172A" alt="PostgreSQL">
 </p>
 
 ---
