@@ -3,22 +3,10 @@
 <h2 align="center">Backend engineer · Architecture-aware tooling · Deterministic systems</h2>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/language-Java-4F6B78?style=for-the-badge&labelColor=454B52"
-    alt="Java"
-  >
-  <img
-    src="https://img.shields.io/badge/build-Maven-705C42?style=for-the-badge&labelColor=454B52"
-    alt="Maven"
-  >
-  <img
-    src="https://img.shields.io/badge/framework-Spring-4D6D61?style=for-the-badge&labelColor=454B52"
-    alt="Spring"
-  >
-  <img
-    src="https://img.shields.io/badge/database-PostgreSQL-70575E?style=for-the-badge&labelColor=454B52"
-    alt="PostgreSQL"
-  >
+  <img src="https://img.shields.io/badge/language-Java-4B6978?style=for-the-badge&labelColor=3B4148" alt="Java">
+  <img src="https://img.shields.io/badge/build-Maven-6B553E?style=for-the-badge&labelColor=3B4148" alt="Maven">
+  <img src="https://img.shields.io/badge/framework-Spring-49695D?style=for-the-badge&labelColor=3B4148" alt="Spring">
+  <img src="https://img.shields.io/badge/database-PostgreSQL-6B515A?style=for-the-badge&labelColor=3B4148" alt="PostgreSQL">
 </p>
 
 ---
