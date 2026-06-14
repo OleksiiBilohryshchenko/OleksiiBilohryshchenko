@@ -3,18 +3,25 @@
 <h2 align="center">Backend engineer · Architecture-aware tooling · Deterministic systems</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oleksiiboh/">LinkedIn</a> &nbsp;·&nbsp;
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/language-Java-5A8B9E?style=for-the-badge&labelColor=0F172A" alt="Java">
-  <img src="https://img.shields.io/badge/build-Maven-A88858?style=for-the-badge&labelColor=0F172A" alt="Maven">
-  <img src="https://img.shields.io/badge/framework-Spring-5B9279?style=for-the-badge&labelColor=0F172A" alt="Spring">
-  <img src="https://img.shields.io/badge/database-PostgreSQL-9E6B6B?style=for-the-badge&labelColor=0F172A" alt="PostgreSQL">
+  <img
+    src="https://img.shields.io/badge/language-Java-4F6B78?style=for-the-badge&labelColor=454B52"
+    alt="Java"
+  >
+  <img
+    src="https://img.shields.io/badge/build-Maven-705C42?style=for-the-badge&labelColor=454B52"
+    alt="Maven"
+  >
+  <img
+    src="https://img.shields.io/badge/framework-Spring-4D6D61?style=for-the-badge&labelColor=454B52"
+    alt="Spring"
+  >
+  <img
+    src="https://img.shields.io/badge/database-PostgreSQL-70575E?style=for-the-badge&labelColor=454B52"
+    alt="PostgreSQL"
+  >
 </p>
 
 ---
-
 ## About
 
 I design and build production-oriented backend systems with a focus on software architecture, deterministic analysis, and developer tooling for the AI era.
